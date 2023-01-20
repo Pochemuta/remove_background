@@ -53,3 +53,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# utils
+/input
+/output
+cover.jpg
